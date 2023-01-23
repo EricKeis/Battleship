@@ -1,0 +1,2 @@
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\publish\win-x64\ekeisBattleship.pdb
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\publish\win-x64\ekeisBattleship.exe

@@ -1,0 +1,5 @@
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\publish\ekeisBattleship.exe
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\publish\ekeisBattleship.dll
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\publish\ekeisBattleship.deps.json
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\publish\ekeisBattleship.runtimeconfig.json
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\publish\ekeisBattleship.pdb

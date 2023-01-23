@@ -1,0 +1,15 @@
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\ekeisBattleship.exe
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\ekeisBattleship.deps.json
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\ekeisBattleship.runtimeconfig.json
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\ekeisBattleship.dll
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\ref\ekeisBattleship.dll
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\bin\Release\net6.0-windows\ekeisBattleship.pdb
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\obj\Release\net6.0-windows\ekeisBattleship.csproj.AssemblyReference.cache
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\obj\Release\net6.0-windows\ekeisBattleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\obj\Release\net6.0-windows\ekeisBattleship.AssemblyInfoInputs.cache
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\obj\Release\net6.0-windows\ekeisBattleship.AssemblyInfo.cs
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\obj\Release\net6.0-windows\ekeisBattleship.csproj.CoreCompileInputs.cache
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\obj\Release\net6.0-windows\ekeisBattleship.dll
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\obj\Release\net6.0-windows\ref\ekeisBattleship.dll
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\obj\Release\net6.0-windows\ekeisBattleship.pdb
+C:\Users\Eric\OneDrive - University of Colorado Colorado Springs\Spring 2022\CS3020\ekeisBattleship\ekeisBattleship\obj\Release\net6.0-windows\ekeisBattleship.genruntimeconfig.cache

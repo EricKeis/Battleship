@@ -1,0 +1,4 @@
+﻿using ekeisBattleship;
+
+Game game = new Game();
+game.Run();
